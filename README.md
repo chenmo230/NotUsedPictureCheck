@@ -12,4 +12,5 @@ $ chmod +x NotUsedPictureCheck.swift
 $ ./NotUsedPictureCheck.swift iOS/Project/Path
 ```
 根据项目大小情况，中等项目可能需要话费3~5分钟
-4、** 脚本检测出来的图片只是“可能”没使用到，还需要您仔细人工校验**
+
+4、**脚本检测出来的图片只是“可能”没使用到，还需要您仔细人工校验**
